@@ -1,8 +1,8 @@
 ### Heey! Welcome to my profile 👋
 
-Design Lead at Catscratch | Front-end Developer | Machine Learning studant
+Design Lead at Catscratch | Full Stack Developer | Machine Learning studant
 
-- 🔭 Currently work as a requirements analyst
+- 🔭 Currently work as a UX/UI Designer
 - 💻 Studying Machine Learning
 - 🤖 Enthusiast of AI and Machine Learning
 - 👯 I’m looking to collaborate on Open Source AI Projects
