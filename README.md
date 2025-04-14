@@ -1,6 +1,6 @@
 ### Heey! Welcome to my profile 👋
 
-Design Lead at Catscratch | Full Stack Developer | Machine Learning studant
+Product Designer | AI & Machine Learning | Exploring AI to Shape the Future of Design
 
 - 🔭 Currently work as a UX/UI Designer
 - 💻 Studying Machine Learning
