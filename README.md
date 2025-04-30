@@ -4,7 +4,7 @@ Product Designer | AI & Machine Learning | Exploring AI to Shape the Future of D
 
 - 🔭 Currently work as a UX/UI Designer
 - 💻 Studying Machine Learning
-- 🤖 Enthusiast of AI and Machine Learning
+- 🤖 Web3 and AI Enthusiast
 - 👯 I’m looking to collaborate on Open Source AI Projects
 
 ## Status
